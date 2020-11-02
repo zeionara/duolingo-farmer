@@ -1,0 +1,4192 @@
+{
+   "id":"$id",
+   "learningLanguage":"tlh",
+   "fromLanguage":"en",
+   "type":"SKILL_TEST",
+   "challenges":[
+      {
+         "choices":[
+            "tlhIngan ngutlh Rur ray",
+            "tlhIngan ngutlh Day nged",
+            "Day ray"
+         ],
+         "correctIndices":[
+            2
+         ],
+         "prompt":"the Klingon consonants D r",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"4f2cb151abd14f7fb8109669cb7e199b",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"tlhIngan ngutlh Rur ray",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan ngutlh Day nged",
+                  "correct":false
+               },
+               {
+                  "sentence":"Day ray",
+                  "correct":true
+               }
+            ],
+            "solution_key":"aaff00dbd75effec7a0d21e0d0cd1e61",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"the Klingon consonants D r",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "d730b151ec4b88f08c72bdd1959fecc3",
+               "16b1d83b08e5b59cb7cbb0470d513344"
+            ],
+            "lexemes_to_update":[
+               "d730b151ec4b88f08c72bdd1959fecc3",
+               "16b1d83b08e5b59cb7cbb0470d513344"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"tlhIngan ngutlh Rur ray",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan ngutlh Day nged",
+                  "correct":false
+               },
+               {
+                  "sentence":"Day ray",
+                  "correct":true
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"aaff00dbd75effec7a0d21e0d0cd1e61",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"208ca40fa796805af2384a4629d56b42"
+         },
+         "timeTaken":5014,
+         "correct":true,
+         "guess":2
+      },
+      {
+         "prompt":"qay 'ot qay",
+         "correctSolutions":[
+            "the Klingon letters q o q"
+         ],
+         "compactTranslations":[
+            "the Klingon letters q o q",
+            "q o q",
+            "[the spelling of /the Klingon spelling of /][the Klingon names of /the names of /][the /the Klingon /][letters /][q o q/qoq/q, o, q/q, o, and q]",
+            "[the spelling of /the Klingon spelling of /]qoq[ the word/ the Klingon word]",
+            "Spelling of the Klingon word for \"robot\"",
+            "[the spelling of /the Klingon spelling of /][the Klingon names of /the names of /][q o q/qoq/q, o, q/q, o, and q] [the/the Klingon][ letters/]",
+            "[the spelling of /the Klingon spelling of /][the word for /the Klingon word for /][\"robot\"/robot]",
+            "qoq",
+            "[the spelling of /the Klingon spelling of /][the Klingon names of /the names of /][the /the Klingon ][q o q/qoq/q, o, q/q, o, and q][ letters/]",
+            "q [(letter)/] o [(letter)/] q [(letter)/]",
+            "robot",
+            "[the spelling of /the Klingon spelling of /][the word /the Klingon word /]qoq"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "letters",
+            "q",
+            "o",
+            "q"
+         ],
+         "wrongTokens":[
+            "D",
+            "a",
+            "consonant",
+            "r"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"letters"
+            },
+            {
+               "text":"q"
+            },
+            {
+               "text":"o"
+            },
+            {
+               "text":"q"
+            },
+            {
+               "text":"D"
+            },
+            {
+               "text":"a"
+            },
+            {
+               "text":"consonant"
+            },
+            {
+               "text":"r"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"qay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/6b8c25be769a2978e398e062ad251537",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'ot",
+                     "qay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":3,
+                           "hint":"Klingon letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"q (letter)"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant q"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"use the middle finger"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'ot",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/4f591005d29dc22d0c35a4e762d072d1",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'ot",
+                     "qay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":3,
+                           "hint":"Klingon letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"o (letter)"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"o"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel o"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"qay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/6b8c25be769a2978e398e062ad251537",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'ot",
+                     "qay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":3,
+                           "hint":"Klingon letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"q (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant q"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"use the middle finger"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/7e753630c2e8e77a39ae49c490bbd0de",
+         "type":"translate",
+         "id":"c67edbb5370e4708b20e96062c43b9c5",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"qay 'ot qay",
+            "solution_key":"30167cc76a553694c49fc6263cc7e97e",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "letters",
+               "q",
+               "o",
+               "q"
+            ],
+            "translation":"the Klingon letters q o q",
+            "wrong_tokens":[
+               "D",
+               "a",
+               "consonant",
+               "r"
+            ],
+            "text":"qay 'ot qay",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "f72e3ac67cf8752a4e23f761eff4c4a0",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "f72e3ac67cf8752a4e23f761eff4c4a0"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "f72e3ac67cf8752a4e23f761eff4c4a0",
+               "dab477ee8bf70b274bb49541898e1b76"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"30167cc76a553694c49fc6263cc7e97e",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"7e10e39f51cc9c113c5dce23619e8815"
+         },
+         "timeTaken":10985,
+         "closestSolution":"q o q",
+         "correct":true,
+         "guess":"q o q"
+      },
+      {
+         "choices":[
+            "Qay 'at pay lay 'at qaghwI'",
+            "Ngutlh Qay 'it pay lay 'it qaghwI'",
+            "Ngutlhmey Qay 'et pay lay 'et qaghwI'"
+         ],
+         "correctIndices":[
+            0
+         ],
+         "prompt":"Q a p l a '",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"d1de08c4212e4ac9bd7e8d7dbe1eec24",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"Qay 'at pay lay 'at qaghwI'",
+                  "correct":true
+               },
+               {
+                  "sentence":"Ngutlh Qay 'it pay lay 'it qaghwI'",
+                  "correct":false
+               },
+               {
+                  "sentence":"Ngutlhmey Qay 'et pay lay 'et qaghwI'",
+                  "correct":false
+               }
+            ],
+            "solution_key":"cb90e87ded0c107e9fb9e7003ffbe652",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"Q a p l a '",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "59755f803c98811ca25918bd953dcf3a",
+               "de2a51e77eb081067cf3413595253f4e",
+               "6967a5b690a37a118f4eb60f856db4e1",
+               "ac6fdff41252d309d9d3784b5269098e",
+               "de2a51e77eb081067cf3413595253f4e",
+               "5c606d4529d03b605adfeeb4539d3f5f"
+            ],
+            "lexemes_to_update":[
+               "59755f803c98811ca25918bd953dcf3a",
+               "de2a51e77eb081067cf3413595253f4e",
+               "6967a5b690a37a118f4eb60f856db4e1",
+               "ac6fdff41252d309d9d3784b5269098e",
+               "5c606d4529d03b605adfeeb4539d3f5f"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"Qay 'at pay lay 'at qaghwI'",
+                  "correct":true
+               },
+               {
+                  "sentence":"Ngutlh Qay 'it pay lay 'it qaghwI'",
+                  "correct":false
+               },
+               {
+                  "sentence":"Ngutlhmey Qay 'et pay lay 'et qaghwI'",
+                  "correct":false
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"cb90e87ded0c107e9fb9e7003ffbe652",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"53dba219bd4469e91dfb393787dc82ea"
+         },
+         "timeTaken":14845,
+         "correct":true,
+         "guess":0
+      },
+      {
+         "prompt":"Day ray",
+         "correctSolutions":[
+            "the Klingon consonants D r"
+         ],
+         "compactTranslations":[
+            "the Klingon consonants D r",
+            "D r",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon] [Dr/Dr/D, r/D and r] [letters/consonants/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon/] [letters/consonants/] [Dr/Dr/D, r/D and r]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [Dr/Dr/D, r/D and r] [the/the Klingon] [letters/consonants/]"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "consonants",
+            "D",
+            "r"
+         ],
+         "wrongTokens":[
+            "ch",
+            "o",
+            "letters",
+            "a"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"consonants"
+            },
+            {
+               "text":"D"
+            },
+            {
+               "text":"r"
+            },
+            {
+               "text":"ch"
+            },
+            {
+               "text":"o"
+            },
+            {
+               "text":"letters"
+            },
+            {
+               "text":"a"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"Day",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/04e753edb14ac87c1890063b0eccc387",
+               "hintTable":{
+                  "headers":[
+                     
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"D (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"D"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant D"
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"ray",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/a0942053771fc36f2e4ffbfe00bb7917",
+               "hintTable":{
+                  "headers":[
+                     
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"r (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"r"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant r"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/f4faf071bae8c97768da3e801aa80112",
+         "type":"translate",
+         "id":"e2290e96e3fc477e82663cf2bfd0d19c",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"Day ray",
+            "solution_key":"2bd5afa12d686eede51e79a88785494f",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "consonants",
+               "D",
+               "r"
+            ],
+            "translation":"the Klingon consonants D r",
+            "wrong_tokens":[
+               "ch",
+               "o",
+               "letters",
+               "a"
+            ],
+            "text":"Day ray",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "d730b151ec4b88f08c72bdd1959fecc3",
+               "16b1d83b08e5b59cb7cbb0470d513344"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "d730b151ec4b88f08c72bdd1959fecc3",
+               "16b1d83b08e5b59cb7cbb0470d513344"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"2bd5afa12d686eede51e79a88785494f",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"208ca40fa796805af2384a4629d56b42"
+         },
+         "timeTaken":3787,
+         "closestSolution":"D r",
+         "correct":true,
+         "guess":"D r"
+      },
+      {
+         "choices":[
+            "Hay 'ot lay",
+            "tlhIngan ngutlh Qes 'ot lay je",
+            "ngutlhmey Yir 'ot lay je"
+         ],
+         "correctIndices":[
+            0
+         ],
+         "prompt":"the Klingon letters H o l",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"f1d18991255044d1af40f7af2ad49721",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"Hay 'ot lay",
+                  "correct":true
+               },
+               {
+                  "sentence":"tlhIngan ngutlh Qes 'ot lay je",
+                  "correct":false
+               },
+               {
+                  "sentence":"ngutlhmey Yir 'ot lay je",
+                  "correct":false
+               }
+            ],
+            "solution_key":"b589eef9a6e53efe04489be90e6db0ef",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"the Klingon letters H o l",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "6ddca36f17586d1a76234771eac49023",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "ac6fdff41252d309d9d3784b5269098e"
+            ],
+            "lexemes_to_update":[
+               "6ddca36f17586d1a76234771eac49023",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "ac6fdff41252d309d9d3784b5269098e"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"Hay 'ot lay",
+                  "correct":true
+               },
+               {
+                  "sentence":"tlhIngan ngutlh Qes 'ot lay je",
+                  "correct":false
+               },
+               {
+                  "sentence":"ngutlhmey Yir 'ot lay je",
+                  "correct":false
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"b589eef9a6e53efe04489be90e6db0ef",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"ed1b94dbd4f91f8bae584e66ac220d95"
+         },
+         "timeTaken":3568,
+         "correct":true,
+         "guess":0
+      },
+      {
+         "prompt":"jay chay",
+         "correctSolutions":[
+            "the Klingon consonants j ch"
+         ],
+         "compactTranslations":[
+            "the Klingon consonants j ch",
+            "j ch",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon/] [letters/consonants/] [j ch/jch/j, ch/j and ch]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [j ch/jch/j, ch/j and ch] [the/the Klingon] [letters/consonants/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon] [j ch/jch/j, ch/j and ch] [letters/consonants/]"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "consonants",
+            "j",
+            "ch"
+         ],
+         "wrongTokens":[
+            "a",
+            "w",
+            "consonant",
+            "y"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"consonants"
+            },
+            {
+               "text":"j"
+            },
+            {
+               "text":"ch"
+            },
+            {
+               "text":"a"
+            },
+            {
+               "text":"w"
+            },
+            {
+               "text":"consonant"
+            },
+            {
+               "text":"y"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"jay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/d5137974846176dbec0bad545947c164",
+               "hintTable":{
+                  "headers":[
+                     "jay",
+                     "chay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":2,
+                           "hint":"Klingon consonants"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"j"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant j"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"chay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/1e888dc896b71ef444d29481c9d278c0",
+               "hintTable":{
+                  "headers":[
+                     "jay",
+                     "chay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":2,
+                           "hint":"Klingon consonants"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"ch"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"ch (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant ch"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/b58743b681d31a213dc64daab84e190b",
+         "type":"translate",
+         "id":"3373501985fe46e882e6855af7f1dccc",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"jay chay",
+            "solution_key":"6fecccdad38f38a94f5c361ad96894ca",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "consonants",
+               "j",
+               "ch"
+            ],
+            "translation":"the Klingon consonants j ch",
+            "wrong_tokens":[
+               "a",
+               "w",
+               "consonant",
+               "y"
+            ],
+            "text":"jay chay",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "722b242747daaf618426161131e50297",
+               "2d154fdd693c3e57ff12b42f963efbe2"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "722b242747daaf618426161131e50297",
+               "2d154fdd693c3e57ff12b42f963efbe2"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"6fecccdad38f38a94f5c361ad96894ca",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"f6d244a416a6a30c731e7b6b9b276f5b"
+         },
+         "timeTaken":3510,
+         "closestSolution":"j ch",
+         "correct":true,
+         "guess":"j ch"
+      },
+      {
+         "choices":[
+            "ngutlhmey qay 'at mob je",
+            "qay 'at yay",
+            "ngutlh qay 'at ngusdi'"
+         ],
+         "correctIndices":[
+            1
+         ],
+         "prompt":"the Klingon letters q a y",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"138ff5eee7564afbaf70dbba6276bf7e",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"ngutlhmey qay 'at mob je",
+                  "correct":false
+               },
+               {
+                  "sentence":"qay 'at yay",
+                  "correct":true
+               },
+               {
+                  "sentence":"ngutlh qay 'at ngusdi'",
+                  "correct":false
+               }
+            ],
+            "solution_key":"d35c533c3a7626b8039945ee7159f1f4",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"the Klingon letters q a y",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "f72e3ac67cf8752a4e23f761eff4c4a0",
+               "de2a51e77eb081067cf3413595253f4e",
+               "3a20bf822232ebbd60a32d7d5b4d5b56"
+            ],
+            "lexemes_to_update":[
+               "f72e3ac67cf8752a4e23f761eff4c4a0",
+               "de2a51e77eb081067cf3413595253f4e",
+               "3a20bf822232ebbd60a32d7d5b4d5b56"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"ngutlhmey qay 'at mob je",
+                  "correct":false
+               },
+               {
+                  "sentence":"qay 'at yay",
+                  "correct":true
+               },
+               {
+                  "sentence":"ngutlh qay 'at ngusdi'",
+                  "correct":false
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"d35c533c3a7626b8039945ee7159f1f4",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"0d72630914d9f322db95c4164b8b0688"
+         },
+         "timeTaken":2845,
+         "correct":true,
+         "guess":1
+      },
+      {
+         "prompt":"'at 'et 'It 'ot 'ut",
+         "correctSolutions":[
+            "the Klingon vowels a e I o u"
+         ],
+         "compactTranslations":[
+            "the Klingon vowels a e I o u",
+            "[the Klingon names of/] [the/the Klingon/Klingon] [letters/vowels/] [a e I o u/aeIou/a, e, I, o, u/a, e, I, o, and u]",
+            "a e I o u",
+            "the Klingon vowels"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "vowels",
+            "a",
+            "e",
+            "I",
+            "o",
+            "u"
+         ],
+         "wrongTokens":[
+            "vowel"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"vowels"
+            },
+            {
+               "text":"a"
+            },
+            {
+               "text":"e"
+            },
+            {
+               "text":"I"
+            },
+            {
+               "text":"o"
+            },
+            {
+               "text":"u"
+            },
+            {
+               "text":"vowel"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"'at",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/7de2c81e6db32929e9b172296911791b",
+               "hintTable":{
+                  "headers":[
+                     "'at",
+                     "'et",
+                     "'It",
+                     "'ot",
+                     "'ut"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"Klingon vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"a"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"a (letter)"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel a"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'et",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/daa717cf013ad9fd76fc2cea16e09787",
+               "hintTable":{
+                  "headers":[
+                     "'at",
+                     "'et",
+                     "'It",
+                     "'ot",
+                     "'ut"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"Klingon vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"e"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"e (letter)"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel e"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'It",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/deeacfa9560b19a6599475fcbe64b2b2",
+               "hintTable":{
+                  "headers":[
+                     "'at",
+                     "'et",
+                     "'It",
+                     "'ot",
+                     "'ut"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"Klingon vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"I"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"I (letter)"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel I"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'ot",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/4f591005d29dc22d0c35a4e762d072d1",
+               "hintTable":{
+                  "headers":[
+                     "'at",
+                     "'et",
+                     "'It",
+                     "'ot",
+                     "'ut"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"Klingon vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"o"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"o (letter)"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel o"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'ut",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/07773b4724a36aa67b85363bd274812e",
+               "hintTable":{
+                  "headers":[
+                     "'at",
+                     "'et",
+                     "'It",
+                     "'ot",
+                     "'ut"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"Klingon vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"u"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"u (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel u"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/1959cb019a3274e095b2d53aa620d5c3",
+         "type":"translate",
+         "id":"58c418f6004d48dc8fcab3cfe4cdfa08",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"'at 'et 'It 'ot 'ut",
+            "solution_key":"0fa342c538ac341251308be079e6af9b",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "vowels",
+               "a",
+               "e",
+               "I",
+               "o",
+               "u"
+            ],
+            "translation":"the Klingon vowels a e I o u",
+            "wrong_tokens":[
+               "vowel"
+            ],
+            "text":"'at 'et 'It 'ot 'ut",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "de2a51e77eb081067cf3413595253f4e",
+               "9a1998ee505448efd7a03398f4e6747d",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "0a997caafccc7ecada11e44bce566ef7"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "de2a51e77eb081067cf3413595253f4e",
+               "9a1998ee505448efd7a03398f4e6747d",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "0a997caafccc7ecada11e44bce566ef7"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"0fa342c538ac341251308be079e6af9b",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"df0e6dd5ff2440863dee0e8e637724f8"
+         },
+         "timeTaken":7247,
+         "closestSolution":"a e I o u",
+         "correct":true,
+         "guess":"a e I o u"
+      },
+      {
+         "choices":[
+            "may 'at yay",
+            "ngutlh jay yuch yay",
+            "jay 'at yay"
+         ],
+         "correctIndices":[
+            2
+         ],
+         "prompt":"the Klingon letters j a y",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"53ffdec6d9a84556a6ecd3cc8a809558",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"may 'at yay",
+                  "correct":false
+               },
+               {
+                  "sentence":"ngutlh jay yuch yay",
+                  "correct":false
+               },
+               {
+                  "sentence":"jay 'at yay",
+                  "correct":true
+               }
+            ],
+            "solution_key":"afb98c5614d29e091f6f11a9db1d8128",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"the Klingon letters j a y",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "722b242747daaf618426161131e50297",
+               "de2a51e77eb081067cf3413595253f4e",
+               "3a20bf822232ebbd60a32d7d5b4d5b56"
+            ],
+            "lexemes_to_update":[
+               "722b242747daaf618426161131e50297",
+               "de2a51e77eb081067cf3413595253f4e",
+               "3a20bf822232ebbd60a32d7d5b4d5b56"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"may 'at yay",
+                  "correct":false
+               },
+               {
+                  "sentence":"ngutlh jay yuch yay",
+                  "correct":false
+               },
+               {
+                  "sentence":"jay 'at yay",
+                  "correct":true
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"afb98c5614d29e091f6f11a9db1d8128",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"cc93dc58a4a7682289b5d7474e17bdc2"
+         },
+         "timeTaken":2710,
+         "correct":true,
+         "guess":2
+      },
+      {
+         "prompt":"lay",
+         "correctSolutions":[
+            "the Klingon consonant l"
+         ],
+         "compactTranslations":[
+            "the Klingon consonant l",
+            "l",
+            "the letter ell",
+            "the Klingon letter ell",
+            "[the Klingon name of/] l [the/the Klingon/] [letter/consonant/]",
+            "[the Klingon name of/] [the/the Klingon/] l [letter/consonant/]",
+            "[the Klingon name of/] [the/the Klingon/] [letter/consonant/] l"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "consonant",
+            "l"
+         ],
+         "wrongTokens":[
+            "o",
+            "consonants",
+            "w",
+            "v"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"consonant"
+            },
+            {
+               "text":"l"
+            },
+            {
+               "text":"o"
+            },
+            {
+               "text":"consonants"
+            },
+            {
+               "text":"w"
+            },
+            {
+               "text":"v"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"lay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/efb382407b92b2dbbae6d30133159ee5",
+               "hintTable":{
+                  "headers":[
+                     
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"l (consonant)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"l"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"ell (letter)"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/efb382407b92b2dbbae6d30133159ee5",
+         "type":"translate",
+         "id":"a5e566d8af9f4066bfcd93115c98d0af",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"lay",
+            "solution_key":"d660e8445812323f2017a094d06125d0",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "consonant",
+               "l"
+            ],
+            "translation":"the Klingon consonant l",
+            "wrong_tokens":[
+               "o",
+               "consonants",
+               "w",
+               "v"
+            ],
+            "text":"lay",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "ac6fdff41252d309d9d3784b5269098e"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "ac6fdff41252d309d9d3784b5269098e"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"d660e8445812323f2017a094d06125d0",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"18ebfa0006b20595220db1575cc87777"
+         },
+         "timeTaken":2695,
+         "closestSolution":"l",
+         "correct":true,
+         "guess":"l"
+      },
+      {
+         "choices":[
+            "tlhIngan ngutlhmey ghay Day",
+            "ray Day",
+            "ngutlhmey tlhutlh Day je"
+         ],
+         "correctIndices":[
+            1
+         ],
+         "prompt":"the Klingon consonants r D",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"bc315f9f04474b3db8cdff7778b1db8f",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"tlhIngan ngutlhmey ghay Day",
+                  "correct":false
+               },
+               {
+                  "sentence":"ray Day",
+                  "correct":true
+               },
+               {
+                  "sentence":"ngutlhmey tlhutlh Day je",
+                  "correct":false
+               }
+            ],
+            "solution_key":"00f34cbedcef1b737c6612f27177193d",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"the Klingon consonants r D",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "16b1d83b08e5b59cb7cbb0470d513344",
+               "d730b151ec4b88f08c72bdd1959fecc3"
+            ],
+            "lexemes_to_update":[
+               "16b1d83b08e5b59cb7cbb0470d513344",
+               "d730b151ec4b88f08c72bdd1959fecc3"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"tlhIngan ngutlhmey ghay Day",
+                  "correct":false
+               },
+               {
+                  "sentence":"ray Day",
+                  "correct":true
+               },
+               {
+                  "sentence":"ngutlhmey tlhutlh Day je",
+                  "correct":false
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"00f34cbedcef1b737c6612f27177193d",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"8805e2d22897cdca771a712b2cc9d8e3"
+         },
+         "timeTaken":2695,
+         "correct":true,
+         "guess":1
+      },
+      {
+         "prompt":"nay 'at yay",
+         "correctSolutions":[
+            "the Klingon letters n a y"
+         ],
+         "compactTranslations":[
+            "the Klingon letters n a y",
+            "n a y",
+            "[the Klingon names of /][the /the Klingon /Klingon /][letters /][n a y/nay/n, a, y/n, a, and y]",
+            "Spelling of the name of the Klingon letter n",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [the/the Klingon/] [letter/consonant/] n",
+            "[the letters/] n a y",
+            "[the/] [spelling of the/] [name of the/] [Klingon/] [letter/] n",
+            "[the letter/] n"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "letters",
+            "n",
+            "a",
+            "y"
+         ],
+         "wrongTokens":[
+            "o",
+            "H",
+            "q",
+            "gh"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"letters"
+            },
+            {
+               "text":"n"
+            },
+            {
+               "text":"a"
+            },
+            {
+               "text":"y"
+            },
+            {
+               "text":"o"
+            },
+            {
+               "text":"H"
+            },
+            {
+               "text":"q"
+            },
+            {
+               "text":"gh"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"nay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/0b3cbeef1d54509d24aae58dd332ee69",
+               "hintTable":{
+                  "headers":[
+                     
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"n (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant n"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"marry (become wife of)"
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'at",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/7de2c81e6db32929e9b172296911791b",
+               "hintTable":{
+                  "headers":[
+                     
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"a (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"a"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel a"
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"yay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/217ccfaaa932b80d2b820496b3f0c9af",
+               "hintTable":{
+                  "headers":[
+                     
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"y (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"y"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant y"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/44763f8da2312b16759ad67bb423350d",
+         "type":"translate",
+         "id":"c3836a204f1547c5875cd56adf0ef90a",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"nay 'at yay",
+            "solution_key":"f3368f28c961252ba0f77c7ae2832be4",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "letters",
+               "n",
+               "a",
+               "y"
+            ],
+            "translation":"the Klingon letters n a y",
+            "wrong_tokens":[
+               "o",
+               "H",
+               "q",
+               "gh"
+            ],
+            "text":"nay 'at yay",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "81c4e5e60f9e41aea044a124e31f4f77",
+               "de2a51e77eb081067cf3413595253f4e",
+               "3a20bf822232ebbd60a32d7d5b4d5b56"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "81c4e5e60f9e41aea044a124e31f4f77",
+               "de2a51e77eb081067cf3413595253f4e",
+               "3a20bf822232ebbd60a32d7d5b4d5b56"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"f3368f28c961252ba0f77c7ae2832be4",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"671a22136f7a2cad0d638fe2fe4714cf"
+         },
+         "timeTaken":5300,
+         "closestSolution":"n a y",
+         "correct":true,
+         "guess":"n a y"
+      },
+      {
+         "choices":[
+            "tlhIngan wabmey naQ rav 'It 'at 'ot 'et",
+            "tlhIngan wab naQ 'ut 'It 'at 'ot chob",
+            "'ut 'It 'at 'ot 'et"
+         ],
+         "correctIndices":[
+            2
+         ],
+         "prompt":"the Klingon vowels u I a o e",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"a61d9fc1846c4a32a0964a5837241246",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"tlhIngan wabmey naQ rav 'It 'at 'ot 'et",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan wab naQ 'ut 'It 'at 'ot chob",
+                  "correct":false
+               },
+               {
+                  "sentence":"'ut 'It 'at 'ot 'et",
+                  "correct":true
+               }
+            ],
+            "solution_key":"9d10c89f67a9d285b6aed7c69844ea74",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"the Klingon vowels u I a o e",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "0a997caafccc7ecada11e44bce566ef7",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "de2a51e77eb081067cf3413595253f4e",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "9a1998ee505448efd7a03398f4e6747d"
+            ],
+            "lexemes_to_update":[
+               "0a997caafccc7ecada11e44bce566ef7",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "de2a51e77eb081067cf3413595253f4e",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "9a1998ee505448efd7a03398f4e6747d"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"tlhIngan wabmey naQ rav 'It 'at 'ot 'et",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan wab naQ 'ut 'It 'at 'ot chob",
+                  "correct":false
+               },
+               {
+                  "sentence":"'ut 'It 'at 'ot 'et",
+                  "correct":true
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"9d10c89f67a9d285b6aed7c69844ea74",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"c331d6cb086950d5515a0468b93fd17a"
+         },
+         "timeTaken":2895,
+         "correct":true,
+         "guess":2
+      },
+      {
+         "prompt":"qay 'at ghay way 'It qaghwI'",
+         "correctSolutions":[
+            "q a gh w I '"
+         ],
+         "compactTranslations":[
+            "q a gh w I '",
+            "[/the/a] [thing/one] [which/that/who] interrupts",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [q a gh w I '/qaghwI'/q, a, gh, w, I, '/q, a, gh, w, I, and '/q a gh w I glottal stop/q, a, gh, w, I, glottal stop/q, a, gh, w, I, and glottal stop/q a gh w I glottal/q, a, gh, w, I, glottal/q, a, gh, w, I, and glottal/q a gh w I stop/q, a, gh, w, I, stop/q, a, gh, w, I, and stop][ the/ the Klingon/ Klingon][ letters/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] ' [the/the Klingon] [letter/consonant/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] apostrophe [the/the Klingon] [letter/consonant/]",
+            "a [glottal stop/glottal/stop]",
+            "Spell the name of the Klingon letter represented by the ' mark",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon/] [letters/] [q a gh w I '/qaghwI'/q, a, gh, w, I, '/q, a, gh, w, I, and '/q a gh w I glottal stop/q, a, gh, w, I, glottal stop/q, a, gh, w, I, and glottal stop/q a gh w I glottal/q, a, gh, w, I, glottal/q, a, gh, w, I, and glottal/q a gh w I stop/q, a, gh, w, I, stop/q, a, gh, w, I, and stop]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [glottal stop/glottal/stop] [the/the Klingon] [letter/consonant/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [the/the Klingon/] [letter/consonant/] '",
+            "qaghwI'",
+            "[the spelling of /the Klingon spelling of /][the Klingon names of /the names of /][the /the Klingon /Klingon ][q a gh w I '/qaghwI'/q, a, gh, w, I, '/q, a, gh, w, I, and '/q a gh w I glottal stop/q, a, gh, w, I, glottal stop/q, a, gh, w, I, and glottal stop/q a gh w I glottal/q, a, gh, w, I, glottal/q, a, gh, w, I, and glottal/q a gh w I stop/q, a, gh, w, I, stop/q, a, gh, w, I, and stop][ letters/]",
+            "[/the/an] interrupter",
+            "the Klingon letters q a gh w I '",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [the/the Klingon] ' [letter/consonant/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [the/the Klingon] [glottal stop/glottal/stop] [letter/consonant/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [the/the Klingon/] [letter/consonant/] apostrophe",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [the/the Klingon/] [glottal stop/glottal/stop]",
+            "[the Klingon letters/] q a gh w I [glottal stop/glottal/stop]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon name of/the name of/] [the/the Klingon] apostrophe [letter/consonant/]"
+         ],
+         "correctTokens":[
+            "q",
+            "a",
+            "gh",
+            "w",
+            "I"
+         ],
+         "wrongTokens":[
+            "ch",
+            "l",
+            "stop",
+            "consonant"
+         ],
+         "choices":[
+            {
+               "text":"q"
+            },
+            {
+               "text":"a"
+            },
+            {
+               "text":"gh"
+            },
+            {
+               "text":"w"
+            },
+            {
+               "text":"I"
+            },
+            {
+               "text":"ch"
+            },
+            {
+               "text":"l"
+            },
+            {
+               "text":"stop"
+            },
+            {
+               "text":"consonant"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"qay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/6b8c25be769a2978e398e062ad251537",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'at",
+                     "ghay",
+                     "way",
+                     "'It",
+                     "qaghwI'"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":6,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"q (letter)"
+                        },
+                        {
+                           "colspan":5
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant q"
+                        },
+                        {
+                           "colspan":5
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"use the middle finger"
+                        },
+                        {
+                           "colspan":5
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'at",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/7de2c81e6db32929e9b172296911791b",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'at",
+                     "ghay",
+                     "way",
+                     "'It",
+                     "qaghwI'"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":6,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"a (letter)"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"a"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel a"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"ghay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/672dce560546c0782339100865439c66",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'at",
+                     "ghay",
+                     "way",
+                     "'It",
+                     "qaghwI'"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":6,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"gh"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant gh"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"g (letter)"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"way",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/851daa3cd1dbfddd10f65aa239a563e6",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'at",
+                     "ghay",
+                     "way",
+                     "'It",
+                     "qaghwI'"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":6,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"w (letter)"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"w"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant w"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'It",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/deeacfa9560b19a6599475fcbe64b2b2",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'at",
+                     "ghay",
+                     "way",
+                     "'It",
+                     "qaghwI'"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":6,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"I (letter)"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"I"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel I"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"qaghwI'",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/a2df419c266bf6182f9ee63066526be7",
+               "hintTable":{
+                  "headers":[
+                     "qay",
+                     "'at",
+                     "ghay",
+                     "way",
+                     "'It",
+                     "qaghwI'"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":6,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":5
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the letter '"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":5
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"interrupter"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":5
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"glottal stop"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/f1c46c38067755e598923e2daadd9e8a",
+         "type":"translate",
+         "id":"a47b6f196ad141d08f08f76571d0c7c9",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"qay 'at ghay way 'It qaghwI'",
+            "solution_key":"611f13f6b2c8a7009cf2423fc41c69a0",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "q",
+               "a",
+               "gh",
+               "w",
+               "I"
+            ],
+            "translation":"q a gh w I '",
+            "wrong_tokens":[
+               "ch",
+               "l",
+               "stop",
+               "consonant"
+            ],
+            "text":"qay 'at ghay way 'It qaghwI'",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "59755f803c98811ca25918bd953dcf3a",
+               "de2a51e77eb081067cf3413595253f4e",
+               "885762257e3a729526342b132f834f47",
+               "e7867e84c7de062ea31b84d21d787f31",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "5c606d4529d03b605adfeeb4539d3f5f"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "59755f803c98811ca25918bd953dcf3a",
+               "de2a51e77eb081067cf3413595253f4e",
+               "885762257e3a729526342b132f834f47",
+               "e7867e84c7de062ea31b84d21d787f31",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "5c606d4529d03b605adfeeb4539d3f5f"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"611f13f6b2c8a7009cf2423fc41c69a0",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"972296033506168042b558abc9d8817a"
+         },
+         "timeTaken":10638,
+         "correct":false,
+         "guess":"q a gh w l ch"
+      },
+      {
+         "choices":[
+            "tlhIngan ngutlhmey qay chay ghay way 'It qaghwI'",
+            "tlhIngan ngutlhmey qay 'at tlhutlh way 'It qaghwI'",
+            "qay 'at ghay way 'It qaghwI'"
+         ],
+         "correctIndices":[
+            2
+         ],
+         "prompt":"q a gh w I '",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"fd46145453994fe1959811faf4fc9cbd",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"tlhIngan ngutlhmey qay chay ghay way 'It qaghwI'",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan ngutlhmey qay 'at tlhutlh way 'It qaghwI'",
+                  "correct":false
+               },
+               {
+                  "sentence":"qay 'at ghay way 'It qaghwI'",
+                  "correct":true
+               }
+            ],
+            "solution_key":"bc8edc3dbf4d0c2afb859415b8ae5cea",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"q a gh w I '",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "59755f803c98811ca25918bd953dcf3a",
+               "de2a51e77eb081067cf3413595253f4e",
+               "885762257e3a729526342b132f834f47",
+               "e7867e84c7de062ea31b84d21d787f31",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "5c606d4529d03b605adfeeb4539d3f5f"
+            ],
+            "lexemes_to_update":[
+               "59755f803c98811ca25918bd953dcf3a",
+               "de2a51e77eb081067cf3413595253f4e",
+               "885762257e3a729526342b132f834f47",
+               "e7867e84c7de062ea31b84d21d787f31",
+               "92bbdbd018cd16d57d5cea7ca78c29bf",
+               "5c606d4529d03b605adfeeb4539d3f5f"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"tlhIngan ngutlhmey qay chay ghay way 'It qaghwI'",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan ngutlhmey qay 'at tlhutlh way 'It qaghwI'",
+                  "correct":false
+               },
+               {
+                  "sentence":"qay 'at ghay way 'It qaghwI'",
+                  "correct":true
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"bc8edc3dbf4d0c2afb859415b8ae5cea",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"972296033506168042b558abc9d8817a"
+         },
+         "timeTaken":3174,
+         "correct":true,
+         "guess":2
+      },
+      {
+         "prompt":"'ut 'ot 'et 'at 'It",
+         "correctSolutions":[
+            "the Klingon vowels u o e a I"
+         ],
+         "compactTranslations":[
+            "the Klingon vowels u o e a I",
+            "u o e a I",
+            "uoeaI",
+            "[the Klingon names of /][the /the Klingon /Klingon ][letters /vowels /][u o e a I/uoeaI/u, o, e, a, I/u, o, e, a, and I]"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "vowels",
+            "u",
+            "o",
+            "e",
+            "a",
+            "I"
+         ],
+         "wrongTokens":[
+            "vowel"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"vowels"
+            },
+            {
+               "text":"u"
+            },
+            {
+               "text":"o"
+            },
+            {
+               "text":"e"
+            },
+            {
+               "text":"a"
+            },
+            {
+               "text":"I"
+            },
+            {
+               "text":"vowel"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"'ut",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/a23616a041dd278e04cb1ac893298241",
+               "hintTable":{
+                  "headers":[
+                     "'ut",
+                     "'ot",
+                     "'et",
+                     "'at",
+                     "'It"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"u"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"u (letter)"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel u"
+                        },
+                        {
+                           "colspan":4
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'ot",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/880a6ff586fe6045c0e7fea12e3a4a83",
+               "hintTable":{
+                  "headers":[
+                     "'ut",
+                     "'ot",
+                     "'et",
+                     "'at",
+                     "'It"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"o"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"o (letter)"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel o"
+                        },
+                        {
+                           "colspan":3
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'et",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/5f8ebdd21563ce7d5702ee5677f8fe37",
+               "hintTable":{
+                  "headers":[
+                     "'ut",
+                     "'ot",
+                     "'et",
+                     "'at",
+                     "'It"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"e"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"e (letter)"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel e"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'at",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/cfc557dd564db2eee3b4c8fcd616c56f",
+               "hintTable":{
+                  "headers":[
+                     "'ut",
+                     "'ot",
+                     "'et",
+                     "'at",
+                     "'It"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"a"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"a (letter)"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":3
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel a"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'It",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/8040adf61de40406ebc398a9fb4d271b",
+               "hintTable":{
+                  "headers":[
+                     "'ut",
+                     "'ot",
+                     "'et",
+                     "'at",
+                     "'It"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":5,
+                           "hint":"vowels"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"I"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"I (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":4
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel I"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v1/576307ae0b4d4f57b900572a27e5b46e",
+         "type":"translate",
+         "id":"aa45d41d6fe6421b8185fa147aeadb61",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"'ut 'ot 'et 'at 'It",
+            "solution_key":"1d13841e38cd0992d8db44cc2a394477",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "vowels",
+               "u",
+               "o",
+               "e",
+               "a",
+               "I"
+            ],
+            "translation":"the Klingon vowels u o e a I",
+            "wrong_tokens":[
+               "vowel"
+            ],
+            "text":"'ut 'ot 'et 'at 'It",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "0a997caafccc7ecada11e44bce566ef7",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "9a1998ee505448efd7a03398f4e6747d",
+               "de2a51e77eb081067cf3413595253f4e",
+               "92bbdbd018cd16d57d5cea7ca78c29bf"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "0a997caafccc7ecada11e44bce566ef7",
+               "dab477ee8bf70b274bb49541898e1b76",
+               "9a1998ee505448efd7a03398f4e6747d",
+               "de2a51e77eb081067cf3413595253f4e",
+               "92bbdbd018cd16d57d5cea7ca78c29bf"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"1d13841e38cd0992d8db44cc2a394477",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"02e23bfe779fff8fc1081e7b24b17b3d"
+         },
+         "timeTaken":6729,
+         "closestSolution":"u o e a I",
+         "correct":true,
+         "guess":"u o e a I"
+      },
+      {
+         "choices":[
+            "tlhIngan wab poD beb",
+            "tlhIngan wab poD 'et",
+            "ngay"
+         ],
+         "correctIndices":[
+            2
+         ],
+         "prompt":"the Klingon consonant ng",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"e07f2e77088a40b9951b5a80bafe2862",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"tlhIngan wab poD beb",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan wab poD 'et",
+                  "correct":false
+               },
+               {
+                  "sentence":"ngay",
+                  "correct":true
+               }
+            ],
+            "solution_key":"f4a2022135022012638df711ddf83d88",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"the Klingon consonant ng",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "b8631f8c3db4c8dce8985abba782f97a"
+            ],
+            "lexemes_to_update":[
+               "b8631f8c3db4c8dce8985abba782f97a"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"tlhIngan wab poD beb",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan wab poD 'et",
+                  "correct":false
+               },
+               {
+                  "sentence":"ngay",
+                  "correct":true
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"f4a2022135022012638df711ddf83d88",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"5840631ebdf36ec85864bb5ec2a285cf"
+         },
+         "timeTaken":4102,
+         "correct":true,
+         "guess":2
+      },
+      {
+         "prompt":"qaghwI' 'et jay",
+         "correctSolutions":[
+            "' e j"
+         ],
+         "compactTranslations":[
+            "' e j",
+            "'ej",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [' e j/'ej/', e, j/', e, and j/glottal stop e j/glottal stop, e, j/glottal stop, e, and j/glottal e j/glottal, e, j/glottal, e, and j/stop e j/stop, e, j/stop, e, and j] [the/the Klingon] [letters/]",
+            "[the spelling of /the Klingon spelling of /][the /the Klingon /]word for \"and\"",
+            "Spell the Klingon word meaning \"and\"",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon] [' e j/'ej/', e, j/', e, and j/glottal stop e j/glottal stop, e, j/glottal stop, e, and j/glottal e j/glottal, e, j/glottal, e, and j/stop e j/stop, e, j/stop, e, and j] [letters/]",
+            "glottal stop e j",
+            "[the spelling of /the Klingon spelling of /]'ej [the/the Klingon] word",
+            "the Klingon letters ' e j",
+            "and",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon/] [letters/] [' e j/'ej/', e, j/', e, and j/glottal stop e j/glottal stop, e, j/glottal stop, e, and j/glottal e j/glottal, e, j/glottal, e, and j/stop e j/stop, e, j/stop, e, and j]",
+            "[the spelling of/the Klingon spelling of/] [the/the Klingon/] word 'ej"
+         ],
+         "correctTokens":[
+            "e",
+            "j"
+         ],
+         "wrongTokens":[
+            "I",
+            "consonants",
+            "w",
+            "a"
+         ],
+         "choices":[
+            {
+               "text":"e"
+            },
+            {
+               "text":"j"
+            },
+            {
+               "text":"I"
+            },
+            {
+               "text":"consonants"
+            },
+            {
+               "text":"w"
+            },
+            {
+               "text":"a"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"qaghwI'",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/a2df419c266bf6182f9ee63066526be7",
+               "hintTable":{
+                  "headers":[
+                     "qaghwI'",
+                     "'et",
+                     "jay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":3,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"glottal stop"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"The Klingon consonant '"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the letter '"
+                        },
+                        {
+                           "colspan":2
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"'et",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/daa717cf013ad9fd76fc2cea16e09787",
+               "hintTable":{
+                  "headers":[
+                     "qaghwI'",
+                     "'et",
+                     "jay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":3,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"e"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"e (letter)"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon vowel e"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"jay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/d5137974846176dbec0bad545947c164",
+               "hintTable":{
+                  "headers":[
+                     "qaghwI'",
+                     "'et",
+                     "jay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":3,
+                           "hint":"letters"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"j"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":2
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant j"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/c4757842a5975bf8c427b014e0440cf6",
+         "type":"translate",
+         "id":"c568495f3a0b43c6ad9df61ff3a2ebd6",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"qaghwI' 'et jay",
+            "solution_key":"d2772a6e2ab2cbcac325441d44e0bc9f",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "e",
+               "j"
+            ],
+            "translation":"' e j",
+            "wrong_tokens":[
+               "I",
+               "consonants",
+               "w",
+               "a"
+            ],
+            "text":"qaghwI' 'et jay",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "5c606d4529d03b605adfeeb4539d3f5f",
+               "9a1998ee505448efd7a03398f4e6747d",
+               "722b242747daaf618426161131e50297"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "5c606d4529d03b605adfeeb4539d3f5f",
+               "9a1998ee505448efd7a03398f4e6747d",
+               "722b242747daaf618426161131e50297"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"d2772a6e2ab2cbcac325441d44e0bc9f",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"a9c221b4e6015b2dcf20c098c61da4cf"
+         },
+         "timeTaken":16379,
+         "blameMessage":"You missed a space.",
+         "blameType":"missing_space",
+         "closestSolution":"' , e, j",
+         "correct":true,
+         "guess":"w e j",
+         "highlights":[
+            [
+               3,
+               4
+            ]
+         ]
+      },
+      {
+         "choices":[
+            "letters qay hay ray",
+            "tlhIngan ngutlhmey qay 'at hoh je",
+            "qay 'at ray"
+         ],
+         "correctIndices":[
+            2
+         ],
+         "prompt":"q a r",
+         "sourceLanguage":"en",
+         "targetLanguage":"tlh",
+         "type":"judge",
+         "id":"281273c7e1b84126b50931bae3ba4aec",
+         "metadata":{
+            "sentences":[
+               {
+                  "sentence":"letters qay hay ray",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan ngutlhmey qay 'at hoh je",
+                  "correct":false
+               },
+               {
+                  "sentence":"qay 'at ray",
+                  "correct":true
+               }
+            ],
+            "solution_key":"30ef7400735b1cb2f271dd597206e071",
+            "source_language":"en",
+            "target_language":"kl",
+            "text":"q a r",
+            "highlight":[
+               
+            ],
+            "specific_type":"target_learning_judge",
+            "type":"judge",
+            "lexeme_ids_to_update":[
+               "f72e3ac67cf8752a4e23f761eff4c4a0",
+               "de2a51e77eb081067cf3413595253f4e",
+               "16b1d83b08e5b59cb7cbb0470d513344"
+            ],
+            "lexemes_to_update":[
+               "f72e3ac67cf8752a4e23f761eff4c4a0",
+               "de2a51e77eb081067cf3413595253f4e",
+               "16b1d83b08e5b59cb7cbb0470d513344"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "learning_language":"kl",
+            "from_language":"en",
+            "options":[
+               {
+                  "sentence":"letters qay hay ray",
+                  "correct":false
+               },
+               {
+                  "sentence":"tlhIngan ngutlhmey qay 'at hoh je",
+                  "correct":false
+               },
+               {
+                  "sentence":"qay 'at ray",
+                  "correct":true
+               }
+            ]
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"30ef7400735b1cb2f271dd597206e071",
+         "challengeGeneratorIdentifier":{
+            "specificType":"target_learning_judge",
+            "generatorId":"8210be703bb4ca72a9f0597a9c526739"
+         },
+         "timeTaken":2473,
+         "correct":true,
+         "guess":2
+      },
+      {
+         "prompt":"nay ngay",
+         "correctSolutions":[
+            "the Klingon consonants n ng"
+         ],
+         "compactTranslations":[
+            "the Klingon consonants n ng",
+            "n, ng",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon/] [letters/consonants/] [n ng/nng/n, ng/n and ng]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [the/the Klingon] [n ng/nng/n, ng/n and ng] [letters/consonants/]",
+            "[the spelling of/the Klingon spelling of/] [the Klingon names of/the names of/] [n ng/nng/n, ng/n and ng] [the/the Klingon] [letters/consonants/]",
+            "n ng",
+            "Klingon consonants n ng",
+            "the letter n, the letter ng"
+         ],
+         "correctTokens":[
+            "the",
+            "Klingon",
+            "consonants",
+            "n",
+            "ng"
+         ],
+         "wrongTokens":[
+            "letters",
+            "r",
+            "gh",
+            "y"
+         ],
+         "choices":[
+            {
+               "text":"the"
+            },
+            {
+               "text":"Klingon"
+            },
+            {
+               "text":"consonants"
+            },
+            {
+               "text":"n"
+            },
+            {
+               "text":"ng"
+            },
+            {
+               "text":"letters"
+            },
+            {
+               "text":"r"
+            },
+            {
+               "text":"gh"
+            },
+            {
+               "text":"y"
+            }
+         ],
+         "correctIndices":[
+            0,
+            1,
+            2,
+            3,
+            4
+         ],
+         "sourceLanguage":"tlh",
+         "targetLanguage":"en",
+         "tokens":[
+            {
+               "value":"nay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/0b3cbeef1d54509d24aae58dd332ee69",
+               "hintTable":{
+                  "headers":[
+                     "nay",
+                     "ngay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":2,
+                           "hint":"Klingon consonants n ng"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"n (letter)"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant n"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1,
+                           "hint":"marry (become wife of)"
+                        },
+                        {
+                           "colspan":1
+                        }
+                     ]
+                  ]
+               }
+            },
+            {
+               "value":" "
+            },
+            {
+               "value":"ngay",
+               "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/30ea1fbac231dafc7e5dca598a083eaf",
+               "hintTable":{
+                  "headers":[
+                     "nay",
+                     "ngay"
+                  ],
+                  "rows":[
+                     [
+                        {
+                           "colspan":2,
+                           "hint":"Klingon consonants n ng"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"ng (letter)"
+                        }
+                     ],
+                     [
+                        {
+                           "colspan":1
+                        },
+                        {
+                           "colspan":1,
+                           "hint":"the Klingon consonant ng"
+                        }
+                     ]
+                  ]
+               }
+            }
+         ],
+         "tts":"https://d1vq87e9lcf771.cloudfront.net/tlh_v2/118fa5c1293c87a6dae32a1afe897d64",
+         "type":"translate",
+         "id":"70811aceec8c40509a7602e8d42afd8a",
+         "metadata":{
+            "highlight":[
+               
+            ],
+            "sentence":"nay ngay",
+            "solution_key":"a0e7dea3476012c52e54b4d7b55a79e9",
+            "source_language":"kl",
+            "target_language":"en",
+            "tokens":[
+               "the",
+               "Klingon",
+               "consonants",
+               "n",
+               "ng"
+            ],
+            "translation":"the Klingon consonants n ng",
+            "wrong_tokens":[
+               "letters",
+               "r",
+               "gh",
+               "y"
+            ],
+            "text":"nay ngay",
+            "specific_type":"tap",
+            "lexeme_ids_to_update":[
+               "81c4e5e60f9e41aea044a124e31f4f77",
+               "b8631f8c3db4c8dce8985abba782f97a"
+            ],
+            "type":"translate",
+            "lexemes_to_update":[
+               "81c4e5e60f9e41aea044a124e31f4f77",
+               "b8631f8c3db4c8dce8985abba782f97a"
+            ],
+            "generic_lexeme_map":{
+               
+            },
+            "num_comments":0,
+            "learning_language":"kl",
+            "from_language":"en"
+         },
+         "newWords":[
+            
+         ],
+         "progressUpdates":[
+            
+         ],
+         "sentenceDiscussionId":"a0e7dea3476012c52e54b4d7b55a79e9",
+         "challengeGeneratorIdentifier":{
+            "specificType":"tap",
+            "generatorId":"321df2833007d2669206ffc0cf480d37"
+         },
+         "timeTaken":6293,
+         "closestSolution":"n, ng",
+         "correct":true,
+         "guess":"n ng"
+      }
+   ],
+   "adaptiveInterleavedChallenges":{
+      "challenges":[
+         
+      ],
+      "harderComboConsecutives":5,
+      "easierComboConsecutives":3,
+      "harderChallengeReplacementIndices":[
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null
+      ],
+      "easierChallengeReplacementIndices":[
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null,
+         null
+      ]
+   },
+   "metadata":{
+      "id":"$id",
+      "type":"test",
+      "target_lexeme_ids":[
+         "4bdcccd253a99fdecafce34b215e905d",
+         "124e41fb37ea0259a3be8957ca5fe709",
+         "6a47ee59926938cef09ecd72d58f7a64",
+         "2d246441a580649457fe208d51934584",
+         "f21daef9d6abfe9035b0111834ab1637",
+         "5ca2b01fe6c5f2a1a95513a6c83661c3",
+         "9338056d5ff3415937a92046c206312d",
+         "5393709e02d9d59f5a6074f462831f8a",
+         "be937e2b46b308b2ca93c018813bd499",
+         "654612da0b7d8fb93fcc336c3f5de5f7",
+         "ca2fce3c01f7e811ca79e562ffa3bc9c",
+         "ec4c089ddb2dcebe275ec8b421fe10e2",
+         "239616569ef628d40cd0c3a5ca2a6ade",
+         "05820f0f48586b8ba0a5a0a5975508fa",
+         "c104781d7bcb12e0911cf167e7047b8b",
+         "d39c0de14aef8f2934c7ce6534f4c4e6",
+         "9ae4ec2cc1f17ab2270c74e8547eabff",
+         "a63a5aa47ac7a4a18e13ac57c7563be8",
+         "bca4029cee527a41050bdd2189705267",
+         "ce73e41a534cf31558972c8069db92a8"
+      ],
+      "teaches_lexeme_ids":[
+         "d730b151ec4b88f08c72bdd1959fecc3",
+         "16b1d83b08e5b59cb7cbb0470d513344",
+         "f72e3ac67cf8752a4e23f761eff4c4a0",
+         "ac6fdff41252d309d9d3784b5269098e",
+         "59755f803c98811ca25918bd953dcf3a",
+         "5c606d4529d03b605adfeeb4539d3f5f",
+         "722b242747daaf618426161131e50297",
+         "0a997caafccc7ecada11e44bce566ef7",
+         "92bbdbd018cd16d57d5cea7ca78c29bf",
+         "9a1998ee505448efd7a03398f4e6747d",
+         "81c4e5e60f9e41aea044a124e31f4f77",
+         "b8631f8c3db4c8dce8985abba782f97a"
+      ],
+      "kc_strength_model_version":0,
+      "pass_strength":0,
+      "min_strength_increment":0,
+      "min_strength_decrement":0,
+      "mixture_models":{
+         
+      },
+      "language":"kl",
+      "from_language":"en",
+      "ui_language":"en",
+      "language_string":"Klingon",
+      "tts_enabled":false,
+      "skill_id":"$skill_id",
+      "skill_tree_id":"$skill_tree_id",
+      "skill_tree_level":$level_index,
+      "skill_name":"Pronunciation 1",
+      "skill_title":"Pronunciation Lesson",
+      "skill_index":1,
+      "skill_color":"blue",
+      "explanation":"**QumwI' yIchu'!**  \n(\"Activate communicator!\")\n\nWe're excited to bring the language of the future to your primitive technical devices!\n\nThis unit will teach you the sounds of Klingon. Don't worry if you can't say or hear them perfectly to begin with. Keep practising & you will get it.\n\nThis unit is not teaching regular words. Much as the English letter \"H\" is \"aitch\" or \"haitch\", or \"Y\" is \"wye\" & \"W\" is \"double-you\", Klingon letters also have names.\n\nThe vowels are called **'at 'et 'It 'ot 'ut**. The consonants add **-ay** to the consonant sound, e.g. **m** is called **may** (sounds like English *my*) & **tlh** is **tlhay**. Translate those as \"the letter a\", \"the letter m\", \"the letter tlh\", etc.\n\nAlphabet\n---\nThe Klingon alphabet is:  \n**a b ch D e gh H I j l m n ng o p q Q r S t tlh u v w y '**\n\nNote that case matters: many letters are *always* lowercase (even at the beginning of a sentence) & some are *always* uppercase.\n\nNote **I** (capital i) versus **l** (small L) - the second has a small curl at the bottom in Duolingo's website font. The vowel **I** never has an adjacent vowel. The consonant **l** will always have at least one adjacent vowel. **Q** & **q** are two separate letters. **ch gh ng** & **tlh** count as single consonants in Klingon. The **'** (apostrophe) also counts as a letter.\n\nPronunciation:\n---\nLetters **b l m n p t** & **v** are said as in English, but **b, p** & **t** should always have a puff of air, even at the end of a word.\n\nVowels each have one pronunciation.  \n**a** as in father  \n**e** as in ten  \n**I** as in it  \n**o** as in bowl  \n**u** as the oo in pool\n\n**I** is uppercase to remind us that it is different from the pattern of 5 vowels we often see in foreign languages.\n\n**w** & **y** are as in English at the beginnings of syllables. At the ends they form a combined sound called a diphthong. At the end of a syllable **w** sounds like **oo** & **y** sounds like \"ee\". So **paw** sounds like \"pow\" & **pay** sounds like \"pie\".\n\n**ch** is said as in \"church\". Never like an English \"k\" or \"sh\", & never like a German, Scottish, or Hebrew \"ch\".  Please note that **ch** is a single Klingon consonant.\n\n**j** should be said hard like the beginning & end of the English word \"judge\". Never with the softer sound from French.\n\n**r** is not usually said at the roof of the mouth like an American English \"r\", but with the tip of the tongue behind the teeth like a Spanish \"r\".\n\n**q** sounds much like an English \"k\", but from the back of the throat. The **q** does not include the \"w\" sound as in English words that begin with \"qu\". Even when **q** is followed by **u**, the two sounds do not blend. The Klingon word **qul** (\"fire\") sounds like the English word \"cool\", but with a stronger \"c\" sound. This is a different letter than **Q** explained below.\n\n**D** in Klingon sounds similar to the English \"d\", but said with the tip of the tongue further back in the high roof of the mouth & is capitalized to help us remember the difference.\n\n**S** is similarly said with the tip of the tongue further back in the high roof of the mouth. It winds up sounding a bit like an English \"sh\", but should never be said like an \"sh\".  The **S** is also capitalized to help us remember the difference.\n\n**ng** is said exactly as in English, but English speakers are not used to it at the beginning of a word.  Put the rear of your tongue to the roof of your mouth to make this sound.  Please note that **ng** is a single Klingon consonant.\n\n**gh** is produced at the top of the throat with a raspy gargle or purr & a voiced vibration in the throat.  Please note that **gh** is a single Klingon consonant.\n\n**H** is said in the same position as **gh** but without the voiced vibration. It is similar to the \"ch\" heard in Scottish \"loch\", Hebrew \"l'chaim\", & German \"Bach\", though it is usually said a little further back & a little stronger than those sounds. It is capitalized to remind us not to say it like the weak English \"h\".  When you see a lower-case \"h\" it will always be part of one of the consonants **ch**, **gh**, or **tlh**.\n\n**Q** combines the **q** sound & the **H** sound. It should start with the throat closed like you are going to make a **q**, but then explode into a raspy **H**-type sound.\n\n**tlh** is another sound not made in English. It explodes like a \"t\", but out the sides of the tongue like an \"l\".  Note that this is one consonant in Klingon & is the only time you will see a l (lower-case L) without at least one vowel next to it.\n\n**'** marks a sound we do make in English. We don't usually mark it in English. In Klingon it is a full letter & leaving it out is like missing any other letter from a word. We call this **qaghwI'**. It is made by closing the throat & is called a glottal stop. It's the stop between syllables in the word \"uh-oh\". You may notice that you also close the throat at the beginning of \"uh-oh\" and all English words that start with a vowel. Klingon **'ej** sounds exactly like English \"edge\".",
+      "beginner":false,
+      "level_index":$level_index,
+      "hints_url":"d2.duolingo.com/api/1/dictionary/hints",
+      "experiments":[
+         "learning_uniform_skill_test_length"
+      ],
+      "lexeme_level_updates":{
+         "4":{
+            "f21daef9d6abfe9035b0111834ab1637":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "d39c0de14aef8f2934c7ce6534f4c4e6":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "be937e2b46b308b2ca93c018813bd499":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "4bbf62d174ce8b4a9492553eb4f6aeda":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "239616569ef628d40cd0c3a5ca2a6ade":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "0d5c866ce51038fef037d44abf6729c9":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "ce73e41a534cf31558972c8069db92a8":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "5ca2b01fe6c5f2a1a95513a6c83661c3":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "ca2fce3c01f7e811ca79e562ffa3bc9c":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "bca4029cee527a41050bdd2189705267":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "e8c337c6446f9a4562bfe550866bd370":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "a9876c84e7cf73d5a7a3354e5762e719":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "c104781d7bcb12e0911cf167e7047b8b":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "ec4c089ddb2dcebe275ec8b421fe10e2":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "dce3b09f9c3f6c16999a74f9fd690330":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "a63a5aa47ac7a4a18e13ac57c7563be8":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "8c0c433f40e07d4c26bd049f650c4b33":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "5393709e02d9d59f5a6074f462831f8a":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "31a0c424f4d8e20385b68903cad0393f":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "654612da0b7d8fb93fcc336c3f5de5f7":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "4bdcccd253a99fdecafce34b215e905d":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "6a47ee59926938cef09ecd72d58f7a64":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "aa457fcc3df3e414b8c2ba3368b9b7ca":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "350f9d5efc3f96272f061465bc470801":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "fe2956cfe031f83cc66c7e426af34b44":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "e86168fcb693602e6c67dfb84b29912d":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "8f6732e4f39865aa4963f1557836a7dc":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "e5aa5cea57e72d6db4878fccdbe76e20":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "2ea2e5055b9b7833bad41499e04d6a52":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "05820f0f48586b8ba0a5a0a5975508fa":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "9ae4ec2cc1f17ab2270c74e8547eabff":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "2d246441a580649457fe208d51934584":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "179e43dcf1d80674033f0e0390826211":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "88d0e347d35d332798cc6a95c9e2b2c4":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "f11ed0b6c76efda3d19bda918f3f58c3":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "bbbfe5953e5c6ffc0ccad8d243002299":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "d6b6765b3989d5a0fe1a67385dcbf2f2":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "9338056d5ff3415937a92046c206312d":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "fa70db0a9a5fa1e77d9fbd21e2b7293a":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            },
+            "124e41fb37ea0259a3be8957ca5fe709":{
+               "0":{
+                  "level_index":$level_index,
+                  "untargeted_progress":0,
+                  "times_targeted":1,
+                  "targeted_progress":1
+               }
+            }
+         }
+      }
+   },
+   "trackingProperties":{
+      "percent_target_kc_coverage":0.6,
+      "skill_x_coord":1,
+      "skill_tree_id":"$skill_tree_id",
+      "sum_content_length":265,
+      "data_version":"default",
+      "tree_level":$level_index,
+      "num_challenges_gt_target_learning_judge":10,
+      "lexemes_were_reordered":false,
+      "type":"test",
+      "num_challenges_generated":20,
+      "is_shorter_than_expected":false,
+      "expected_length":20,
+      "offline":false,
+      "num_interleaved_adaptive_challenges_gt":0,
+      "activity_uuid":"8a0eaee5-ce19-4094-aefb-ea50e4d976da",
+      "learning_language":"kl",
+      "level_index":$level_index,
+      "num_challenges_gt_tap":10,
+      "avg_content_length":13.25,
+      "generation_timestamp":1604313263814,
+      "max_repeated_sentence_count":1,
+      "max_repeated_challenge_count":1,
+      "max_repeated_undirected_sentence_count":1,
+      "sentences_count":20,
+      "num_challenges_gt":20,
+      "generation_app_version":"5.0",
+      "distinct_sentences_count":20,
+      "num_adaptive_challenges_generated":0,
+      "uses_birdbrain":false,
+      "read_from_cache":false,
+      "skill_name":"Pronunciation 1",
+      "distinct_undirected_sentences_count":20,
+      "num_adaptive_challenges_gt":0,
+      "skill_id":"$skill_id",
+      "from_language":"en"
+   },
+   "beginner":false,
+   "skillId":"$skill_id",
+   "sessionStartExperiments":[
+      "learning_uniform_skill_test_length"
+   ],
+   "levelIndex":$level_index,
+   "challengeTimeTakenCutoff":60000,
+   "explanations":{
+      
+   },
+   "progressUpdates":[
+      
+   ],
+   "heartsLeft":10,
+   "startTime":$time,
+   "disable_bonus_points":false,
+   "endTime":$time,
+   "failed":false,
+   "max_in_lesson_streak":20
+}

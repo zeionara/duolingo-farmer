@@ -8232,9 +8232,9 @@
       
    ],
    "heartsLeft":10,
-   "startTime":1604160127,
+   "startTime":$time,
    "disable_bonus_points":false,
-   "endTime":1604160463,
+   "endTime":$time,
    "failed":false,
    "max_in_lesson_streak":20
 }
