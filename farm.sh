@@ -24,7 +24,7 @@ if [ "$((n_points % n_points_per_query))" -eq "0" ]; then
             -H 'sec-fetch-dest: empty' \
             -H 'referer: https://www.duolingo.com/practice' \
             -H 'accept-language: en-US,en;q=0.9,ru-RU;q=0.8,ru;q=0.7' \
-            --data-binary '@$tmp_file_name' \
+            --data-binary "@$tmp_file_name" \
             --compressed && echo '' && sleep $delay && let i=i+1
     done
     rm $tmp_file_name
